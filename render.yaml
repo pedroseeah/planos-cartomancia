@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: planos-cartomancia-laila
+    runtime: static
+    staticPublishPath: ./public
